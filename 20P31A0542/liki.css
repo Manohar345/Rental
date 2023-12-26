@@ -1,0 +1,66 @@
+.bar{
+	color: orange;
+	font-size: 40px;
+}
+ul a:hover{
+	background-color: yellow;
+}
+.ima{
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: var();
+}
+.two{
+	padding-top: 20px;
+	font-size: 50px;
+	color: orange;
+}
+.three{
+	padding-bottom: 40px;
+	color: whitesmoke;
+}
+.con{
+	background-color: black;
+}
+.six{
+	font-size: 45px;
+	padding-top: 20px;
+}
+.seven{
+	padding-top: 40px;
+	padding-bottom: 40px;
+	background-color: black;
+	color: whitesmoke;
+}
+.eight:hover{
+	font-size: 30px;
+}
+.eight{
+    height: 230px;
+    width: auto;
+    margin-top: 60px;
+}
+.footer{
+    height:300px;
+    width: auto;
+    background-color: black;
+    margin-top: 60px;
+}
+.footer h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.footer h2,h3,h5{
+    color: ghostwhite;
+}
+.nine{
+	height: 250px;
+	width: auto;
+	background-color: black;
+}
+#p1:hover{
+	background-color: black;
+	color: orange;
+}
+.pak {
+	text-align: center;
+}
